@@ -48,11 +48,3 @@ Contributions to improve the NLTK Text Summarizer are welcome. Here are some way
 - Submitting pull requests with improvements to code or documentation
 
 Please feel free to fork the repository and submit pull requests with your changes!
-
-## License
-
-Include your license information here.
-
----
-
-Feel free to adjust the content of the README to better fit the specifics of your project or to add additional sections as needed, such as "Contact Information" or "Acknowledgments".
