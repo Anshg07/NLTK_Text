@@ -9,6 +9,7 @@ def download_nltk_data():
     nltk_data_needed = ['punkt', 'averaged_perceptron_tagger', 'wordnet', 'stopwords']
     for data in nltk_data_needed:
         nltk.download(data, quiet=True)
+    nltk.download('omw-1.4')
 
 # Streamlit app title
 st.title('NLTK Text Summarizer')
